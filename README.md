@@ -1,5 +1,8 @@
 # TinyPng-lpig
 
+##说明：
+根据Tinypng的sdk封装自用图片压缩脚本，支持替换源文件
+
 ##使用方法
 
 ###INIT
