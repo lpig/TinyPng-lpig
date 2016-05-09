@@ -8,7 +8,7 @@ from multiprocessing import Pool
 import tinify
 
 
-tinify.key = "zEBHCcjmE6XhTx368FdwkOKyNd-boIdo"
+tinify.key = "TINYPNG-KEY"
 poolLimite = 10
 orver_write = False
 file_path = ""
